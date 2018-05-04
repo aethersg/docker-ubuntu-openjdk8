@@ -1,2 +1,2 @@
 # docker-ubuntu-openjdk8
-This is a docker using ubuntu and open jdk8
+This is a docker using ubuntu 16.04 and openjdk8
